@@ -1,0 +1,1 @@
+okay so this is my first javascript project. lets gooo.
